@@ -56,7 +56,7 @@ Note: we used a random state of 1 for each algorithm to ensure consistency betwe
 * Balanced accuracy score is 91.7%
 * Precision is 0.09
 * Recall is 94%
-<img src="https://github.com/itochax23/Credit_Risk_Analysis/blob/5e9337e0a6eb669cdb87234d1c53fb7c244d4f5a/Resources/EasyEnsembleAdaBoostClassifier.png" width="70%">
+<img src="https://github.com/itochax23/Credit_Risk_Analysis/blob/bace984fc5c083f4c2b01c19325ce272c803bec0/Resources/EasyEnsembleAdaBoostClassifier.png" width="70%">
 
 ## Summary
 
